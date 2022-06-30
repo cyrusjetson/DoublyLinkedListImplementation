@@ -1,3 +1,3 @@
-# LinkedListImplementation
+# DoublyLinkedListImplementation
 
 implemented using IntelliJ
